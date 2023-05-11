@@ -19,7 +19,6 @@
 ### Habilidades e linguagens que estou aprendendo no momento
 <div style"display: inlineblock">
     <img  align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    
     <img  align="center" alt="" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img  align="center" alt="Android/Kotlin" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </div><br/>
