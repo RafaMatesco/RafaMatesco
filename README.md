@@ -24,5 +24,5 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=RafaMatesco&show_icons=true&theme=dracula&includeallcommits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=RafaMatesco&show_icons=true&theme=merko&includeallcommits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
