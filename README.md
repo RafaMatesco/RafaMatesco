@@ -101,7 +101,14 @@
 
 ### Visualizações do perfil
 
-<div align="center">
+<div align="start">
   <img src="https://profile-counter.glitch.me/RafaMatesco/count.svg?"  />
 </div>
 
+### Pac-man :)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaMatesco/RafaMatesco/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaMatesco/RafaMatesco/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RafaMatesco/RafaMatesco/output/pacman-contribution-graph.svg">
+</picture>
