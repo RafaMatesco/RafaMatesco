@@ -82,14 +82,14 @@
   </kbd>
 </p>
 
-<h2 align="center"><u>My Github Stats</u></h2>
+<h2 align="center"><u>Stats. github</u></h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaMatesco&layout=compact&theme=dark&langs_count=10&exclude_repo=kasweb">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RafaMatesco&count_private=true&show_icons=trueline_height=21&theme=dark">	
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaMatesco&theme=dark">
 </p>
 
-### Contact me:
+### Contatos:
 
 <a href="https://github.com/RafaMatesco" target="_blank"><img src="https://img.shields.io/badge/Github-RafaMatesco-green?style=for-the-badge&logo=github"></a>
 
@@ -98,4 +98,10 @@
 <a href="https://instagram.com/rafaelmatesco" target="_blank"><img src="https://img.shields.io/badge/Instagram-@rafaelmatesco-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <a href="mailto:kasroudrakrd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-matescorapha@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+
+### Visualizações do perfil
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/RafaMatesco/count.svg?"  />
+</div>
 
