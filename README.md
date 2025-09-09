@@ -97,7 +97,7 @@
 
 <a href="https://instagram.com/rafaelmatesco" target="_blank"><img src="https://img.shields.io/badge/Instagram-@rafaelmatesco-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-<a href="mailto:kasroudrakrd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-matescorapha@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:matescorapha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-matescorapha@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 
 ### Visualizações do perfil
 
