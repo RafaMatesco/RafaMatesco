@@ -10,9 +10,9 @@
 
  - Atualmente cursando Análise e desenvolvimento de sistemas na FATEC
  
- - Eu gosto de jogar videogames competitivos, escutar música e ver séries.
+ - Eu gosto de jogos online, para jogar com amigos, escutar música e editar vídeos.
 
- - Meu interesse na área de TI começou quando eu era bem novo ainda, quando eu decidi aprender a colocar mods no meu Minecraft 😂.
+ - Meu interesse na área de TI começou quando eu era bem novo ainda, principalmente quando descobri mods para o minecraft.
 
 </p>
 
